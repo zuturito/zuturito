@@ -26,6 +26,7 @@ Some technologies i've used:
 ![](https://img.shields.io/badge/Dev-Android-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/Dev-.NET-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/Dev-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
+![](https://img.shields.io/badge/Dev-NodeJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=critical)
 ![](https://img.shields.io/badge/Tools-Designite-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tools-Sonarqube-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success)
 ![](https://img.shields.io/badge/Tools-VisualStudioCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=success)
